@@ -15,7 +15,7 @@ This allows to monitor the backup processes using popular systems monitoring too
 
 The program can be installed on Arcserve UDP console node with the local SQL [Express] database only. 
 1. Create some directory for the program, for example C:\ArcUDPsyslog\
-2. Download and unzip the [ArcUDPsyslog.zip](https://github.com/MastaLomaster/ArcUDPsyslog/raw/master/ArcUDPsyslog.zip) to this directory:
+2. Download and unzip the [ArcUDPsyslog.zip](https://github.com/MastaLomaster/ArcUDPsyslog/raw/main/ArcUDPsyslog.zip) to this directory:
 ![](http://arcserve.su/as/01.png)
 
 3. In the elevated command prompt (Run as Administrator) execute:
